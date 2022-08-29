@@ -26,5 +26,5 @@
 -   *not much have changed since the 90s
 -   *quite a lot have changed since the 90s
 -   
-- My interests revolve around internet of things, data structures and manipulation, software engineering and development, business inteligence, games.
+- My interests revolve around the internet of things, data structures and manipulation, software engineering and development, business inteligence, games.
 - [also around history, the Balkans, Black Metal, Black Metal history of the Balkans, poetry, the Oxford Comma, and more] 
