@@ -15,7 +15,7 @@
 - 
 - The rough idea is to dedicate equal time in coding, reading, and gradually combine both in problem-solving.
 - 
-- Last time I followed similar courses was back in the early 1990s -at the time [of the second wave of] Black Metal emerged- in 
+- Last time I followed similar courses was back in the early 1990s -at the same time [the second wave of] Black Metal emerged- in 
 -   *Logo: I made the green turtle turn quite a few degrees left, right and all over the screen,
 -   *QuickBASIC: I've built a game where you had to collect some falling !s while controling the letter U with the arrows,
 -   *MsDOS/ terminal: commands...command, dir, cd, learning to use the help... all we care for was to play Jordan vs Bird-One on One before the class (only the losers played with Bird),
