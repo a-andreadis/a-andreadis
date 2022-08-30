@@ -5,6 +5,7 @@
 - This will hopefully lead me to somewhere better personally, and to somewhere further professionally.
 - 
 - I have started following the freeCodeCamp.org curriculum. 
+- I got the Legacy Certification quite recently (April, 2022), so I reckon this Certification will not take long.
 - It seems a good starting point overall.
 - 
 - This specific learning trip will take me from: 
